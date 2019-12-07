@@ -37,7 +37,7 @@ h1 {
   list-style-type: none;
   display: inline-block;
   padding: .2em .5em .3em;
-  background-color: eaeacd;
+  background-color: #ffffdf;
   border-radius: 4px;
   margin-bottom: .3em;
   text-decoration: none;
@@ -48,7 +48,7 @@ h1 {
 }
 
 .nav .current {
-  background-color: #ffffdf;
+  background-color: #eaeacd;
 }
 
 footer {
@@ -64,18 +64,35 @@ footer small {
 
 h2 {
   font-size: 1.875rem;
-  font-family: "Sigmar One", sans-serif;
+  font-family: "Solway", serif;
   color: #5ec7ff;
-}
-
-main {
   display: block;
-  margin: 0 .75em;
+  text-align: center;
 }
 
 img {
   display: block;
   width: 50%;
+  margin: 0 auto 1.5rem;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 4;
+  justify-content: space-between;
+}
+
+.one {
+  background-color: #D2EFFF;
+}
+
+.two {
+  background-color: #B7E5FF;
+}
+
+.three {
+  background-color: #9ADBFF;
 }
 
 .nav {
@@ -84,14 +101,7 @@ img {
   text-align: center;
 }
 
-.p1 {
-  display: inline-block;
-}
-
-.p2 {
-  display: inline-block;
-}
-
-.p3 {
-  display: inline-block;
+p {
+  display: block;
+  padding: .75rem;
 }
