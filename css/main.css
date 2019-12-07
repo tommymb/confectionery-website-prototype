@@ -70,7 +70,7 @@ h2 {
   text-align: center;
 }
 
-img {
+.img-flex {
   display: block;
   width: 50%;
   margin: 0 auto 1.5rem;
