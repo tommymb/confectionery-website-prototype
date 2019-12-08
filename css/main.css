@@ -17,7 +17,7 @@ body {
 header {
   display: block;
   background-color: #5ec7ff;
-  border-bottom: 5px solid #005e76;
+  border-bottom: 5px solid #0075B6;
   padding: 1.5rem 0;
 }
 
@@ -67,7 +67,7 @@ footer small {
 h2 {
   font-size: 1.875rem;
   font-family: "Solway", serif;
-  color: #5ec7ff;
+  color: #0075B6;
   display: block;
   text-align: center;
 }
@@ -114,14 +114,15 @@ p {
   flex-wrap: wrap;
   align-items: center;
   padding: 1.5rem 0;
-  background-color: #B7E5FF;
-  border-top: 5px solid #005e76;
+  background-color: #5ec7ff;
+  border-top: 5px solid #0075B6;
   color: #000;
 }
 
 .footer h2 {
   margin-top: 0;
   margin-bottom: 1.5rem;
+  color: #ffffdf;
 }
 
 .footer ul {
@@ -141,6 +142,7 @@ p {
 
 .social {
   margin-left: auto;
+  margin-right: 30px;
   padding: 0 1rem;
   display: flex;
 }
@@ -153,4 +155,9 @@ p {
 .copyright {
   padding: 0 1rem;
   width: 100%;
+}
+
+img {
+  display: block;
+  width: 300%;
 }
