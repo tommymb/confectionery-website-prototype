@@ -21,12 +21,12 @@ body {
 header {
   display: block;
   background-color: #5ec7ff;
-  border-bottom: 5px solid #0075B6;
+  border-bottom: 5px solid #0075b6;
   padding: 1.5rem 0;
 }
 
 h1 {
-  font-family: "Solway", serif;
+  font-family: Solway, serif;
   font-size: 3rem;
   color: #ffffdf;
   text-align: center;
@@ -70,8 +70,8 @@ footer small {
 
 h2 {
   font-size: 1.875rem;
-  font-family: "Solway", serif;
-  color: #0075B6;
+  font-family: Solway, serif;
+  color: #0075b6;
   display: block;
   text-align: center;
 }
@@ -90,15 +90,15 @@ h2 {
 }
 
 .one {
-  background-color: #D2EFFF;
+  background-color: #d2efff;
 }
 
 .two {
-  background-color: #B7E5FF;
+  background-color: #b7e5ff;
 }
 
 .three {
-  background-color: #9ADBFF;
+  background-color: #9adbff;
 }
 
 .nav {
@@ -119,7 +119,7 @@ p {
   align-items: center;
   padding: 1.5rem 0;
   background-color: #5ec7ff;
-  border-top: 5px solid #0075B6;
+  border-top: 5px solid #0075b6;
   color: #000;
 }
 
