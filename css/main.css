@@ -21,13 +21,13 @@ body {
 header {
   display: block;
   background-color: #5ec7ff;
-  border-bottom: 5px solid #0075b6;
+  border-bottom: 5px solid #ffffdf;
   padding: 1.5rem 0;
 }
 
 h1 {
   font-family: Solway, serif;
-  font-size: 3rem;
+  font-size: 4rem;
   color: #ffffdf;
   text-align: center;
   margin: auto;
@@ -119,7 +119,7 @@ p {
   align-items: center;
   padding: 1.5rem 0;
   background-color: #5ec7ff;
-  border-top: 5px solid #0075b6;
+  border-top: 5px solid #ffffdf;
   color: #000;
 }
 
@@ -163,5 +163,5 @@ p {
 
 img {
   display: block;
-  width: 300%;
+  width: 250%;
 }
