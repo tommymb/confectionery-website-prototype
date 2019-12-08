@@ -67,7 +67,7 @@ footer small {
 h2 {
   font-size: 1.875rem;
   font-family: "Solway", serif;
-  color: #0075B6;
+  color: #5ec7ff;
   display: block;
   text-align: center;
 }
@@ -100,7 +100,7 @@ h2 {
 .nav {
   margin: 0;
   padding: 0;
-  text-align: center;
+  text-align: left;
 }
 
 p {
