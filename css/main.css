@@ -184,13 +184,13 @@ img {
 
 @media only screen and (min-width: 38em) {
 
-  html { width: auto; line-height: 1.5; font-size: 80%; }
+  html { width: auto; line-height: 1.5; }
 
 }
 
 @media only screen and (min-width: 60em) {
 
-  html { width: auto; line-height: 1.5; font-size: 90%; }
+  html { width: auto; line-height: 1.5; }
 
 }
 
