@@ -51,7 +51,8 @@ h1 {
   padding: .2em .5em .3em;
   background-color: #ffffdf;
   border-radius: 4px;
-  margin-bottom: .3em;
+  margin-bottom: .38em;
+  margin-top: .38em;
   text-decoration: none;
 }
 
@@ -67,11 +68,11 @@ footer {
   text-align: center;
   display: block;
   background-color: #5ec7ff;
-  padding: .75em;
+  padding: .60em;
 }
 
 footer small {
-  font-size: .75em;
+  font-size: .90em;
 }
 
 h2 {
