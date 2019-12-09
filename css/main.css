@@ -186,9 +186,9 @@ img {
 
   html { width: auto; }
 
-  html { font-size: auto; }
+  html { font-size: 80%; }
 
-  html { line-height: auto; }
+  html { line-height: 1.3; }
 
 }
 
@@ -196,17 +196,17 @@ img {
 
   html { width: auto; }
 
-  html { font-size: auto; }
+  html { font-size: 90%; }
 
-  html { line-height: auto; }
+  html { line-height: 1.4; }
 }
 
 @media only screen and (min-width: 90em) {
 
   html { width: auto; }
 
-  html { font-size: auto; }
+  html { font-size: 100%; }
 
-  html { line-height: auto; }
+  html { line-height: 1.5; }
 
 }
