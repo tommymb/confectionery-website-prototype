@@ -181,3 +181,18 @@ img {
   margin-bottom: auto;
   margin-top: auto;
 }
+
+@media query (min-width: 38em) {
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1rem; }
+}
+
+@media query (min-width: 60em) {
+  h1 { font-size: 4rem; }
+  h2 { font-size: 2rem; }
+}
+
+@media query (min-width: 90em) {
+  h1 { font-size: 4rem; }
+  h2 { font-size: 2rem; }
+}
