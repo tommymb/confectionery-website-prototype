@@ -184,24 +184,29 @@ img {
 
 @media only screen and (min-width: 38em) {
 
-  h1 { font-size: 2rem; }
-  h2 { font-size: 1rem; }
   html { width: auto; }
+
+  html { font-size: auto; }
+
+  html { line-height: auto; }
 
 }
 
 @media only screen and (min-width: 60em) {
 
-  h1 { font-size: 4rem; }
-  h2 { font-size: 2rem; }
   html { width: auto; }
 
+  html { font-size: auto; }
+
+  html { line-height: auto; }
 }
 
 @media only screen and (min-width: 90em) {
 
-  h1 { font-size: 4rem; }
-  h2 { font-size: 2rem; }
   html { width: auto; }
+
+  html { font-size: auto; }
+
+  html { line-height: auto; }
 
 }
