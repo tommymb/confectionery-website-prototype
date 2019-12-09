@@ -51,8 +51,7 @@ h1 {
   padding: .2em .5em .3em;
   background-color: #ffffdf;
   border-radius: 4px;
-  margin-bottom: .38em;
-  margin-top: .38em;
+  margin-bottom: .3em;
   text-decoration: none;
 }
 
@@ -68,11 +67,11 @@ footer {
   text-align: center;
   display: block;
   background-color: #5ec7ff;
-  padding: .60em;
+  padding: .75em;
 }
 
 footer small {
-  font-size: .90em;
+  font-size: .75em;
 }
 
 h2 {
@@ -172,7 +171,6 @@ img {
 }
 
 .img-position {
-  display: block;
   position: relative;
 }
 
