@@ -184,18 +184,18 @@ img {
 
 @media only screen and (min-width: 38em) {
 
-  html { width: 80%; font-size: 80%; }
+  html { width: 100; line-height: 1.5; font-size: 80%; }
 
 }
 
 @media only screen and (min-width: 60em) {
 
-  html { width: 90%; font-size: 90%; }
+  html { width: auto; line-height: 1.5; font-size: 90%; }
 
 }
 
 @media only screen and (min-width: 90em) {
 
-  html { width: 100%; font-size: 100%; }
+  html { width: auto; font-size: 100%; }
 
 }
